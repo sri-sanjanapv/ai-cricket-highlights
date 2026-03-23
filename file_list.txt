@@ -1,0 +1,8 @@
+file 'highlights/h0.mp4'
+file 'highlights/h1.mp4'
+file 'highlights/h2.mp4'
+file 'highlights/h3.mp4'
+file 'highlights/h4.mp4'
+file 'highlights/h5.mp4'
+file 'highlights/h6.mp4'
+file 'highlights/h7.mp4'
